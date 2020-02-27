@@ -57,4 +57,4 @@ Author : Alexandre Borghi
 List of resources I used :
 
  - [TheCherno (Youtube)](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
- - [docs.gl](docs.gl)
+ - [docs.gl](https://docs.gl)
